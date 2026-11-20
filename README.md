@@ -2,40 +2,27 @@
 
 ## Overview
 
-PredictIQ is an AI-powered business intelligence dashboard that analyzes historical sales data and forecasts future revenue trends. The platform provides visual analytics, forecasting insights, store performance analysis, and executive-level reporting.
+PredictIQ is an AI-powered business intelligence dashboard that analyzes historical sales data and forecasts future revenue trends.
 
 ## Features
 
 - Revenue Forecasting
-- Business Intelligence Dashboard
-- AI-Powered Insights
-- Revenue Trend Analysis
+- AI Business Insights
+- KPI Dashboard
+- Sales Trend Analysis
 - Store Performance Analytics
-- Product Category Intelligence
-- Forecast Confidence Visualization
-- Downloadable Forecast Reports
-- Interactive Visualizations
+- Product Analytics
+- Download Forecast Reports
 
-## Technologies Used
+## Technologies
 
 - Python
 - Pandas
 - NumPy
-- Scikit-Learn
 - Plotly
+- Scikit-Learn
 - Streamlit
 - Joblib
-
-## Dashboard Components
-
-- KPI Cards
-- Revenue Analytics
-- Sales Trend Charts
-- Forecast Visualizations
-- AI Command Center
-- Store Analytics
-- Product Analytics
-- Executive Summary
 
 ## Author
 
